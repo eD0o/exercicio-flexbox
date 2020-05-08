@@ -7,7 +7,7 @@
 
 .box {
   display: block;
-  width: auto%;
+  width: auto;
   border: solid 1px #ff0000;
   margin: 25px;
   padding: 10px;
@@ -58,5 +58,8 @@
 }
 
 .box-child-07 {
-  
+  flex-basis: 50%;
+  border-bottom: 0px;
+  border-top: 0px;
+  height: 150px;
 }
