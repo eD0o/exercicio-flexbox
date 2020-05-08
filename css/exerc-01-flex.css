@@ -15,11 +15,48 @@
 }
 
 .box-01 {
-  flex-basis: 8%;
+  flex-basis: 20%;
 }
 
 .box-02 {
   display: flex;
 }
 
-.box-
+.box-child-01 {
+  flex-basis: 150px;
+  height: 100px;
+}
+
+.box-child-02 {
+  flex-grow: 2;
+}
+
+.box-03 {
+  display: flex;
+}
+
+.box-child-03 {
+  flex-grow: 1;
+  height: 250px;
+}
+
+.box-child-04 {
+  flex-grow: 1;
+}
+
+.box-child-05 {
+  flex-grow: 1;
+}
+
+.box-child-06 {
+  flex-grow: 1;
+}
+
+.box-04 {
+  display: flex;
+  justify-content: center;
+}
+
+.box-child-07 {
+  
+}
