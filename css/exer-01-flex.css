@@ -7,7 +7,7 @@
 
 .box{
   display: block;
-  width: 100%;
+  width: auto;
   border: solid 1px#ff0000;
   margin: 10px;
   padding: 10px;
